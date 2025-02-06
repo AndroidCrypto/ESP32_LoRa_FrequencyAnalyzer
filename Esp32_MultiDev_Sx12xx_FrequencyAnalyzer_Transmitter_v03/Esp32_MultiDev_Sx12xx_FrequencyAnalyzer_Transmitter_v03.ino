@@ -1,5 +1,3 @@
-// Simply generate the screens for the LoRa article series
-
 /*
 Version Management
 05.02.2025 V03 Final version
