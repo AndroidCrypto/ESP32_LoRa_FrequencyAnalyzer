@@ -1,17 +1,7 @@
-/**
-*
-*
-**/
 
 /*
 Version Management
 05.02.2025 V04 Final version for Tutorial
-28.01.2025 V03 Using the Non-Blocking DIO reading for receiving, Status: working
-27.02.2025 V02 added the real LoRa frequency analyzer with a toggle button
-               to switch the frequencies
-               Note: variant with 'ESP32 SX1262' does not work, hanging after 'receiveSXBuffer'
-26.01.2025 V01 first version, just for displaying the frame on the display, 
-               but without any real data
 */
 
 /**
